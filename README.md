@@ -1,6 +1,6 @@
 # Torotalk
 
-![Torotalk Logo](app/src/main/res/drawable/torologo.jpg)
+<img src="app/src/main/res/drawable/torologo.jpg" alt="Torotalk Logo" width="200" />
 
 **Torotalk** is an innovative Spanish language teaching app developed in Android Studio using Kotlin. Unlike traditional language learning apps, Torotalk emphasizes understanding the logic behind the language, making it easier and more intuitive to learn Spanish. 
 

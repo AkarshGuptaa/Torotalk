@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minor Project</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="button">Button</string>
+    <string name="convert_the_sentence_to_spanish">Convert the sentence to Spanish:</string>
+    <string name="convert_the_phrase_to_spanish" />
+</resources>

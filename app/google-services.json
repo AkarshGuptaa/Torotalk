@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544186403292",
+    "project_id": "minor-project-342ae",
+    "storage_bucket": "minor-project-342ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544186403292:android:79b59ec8aefbe3a9a36719",
+        "android_client_info": {
+          "package_name": "com.akarsh.minorproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-xpL5C56fmo_kmKkw0jbqm7smjxCGrk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

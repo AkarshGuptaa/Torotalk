@@ -104,3 +104,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - [GitHub Profile](https://github.com/AkarshGuptaa)
 - [Email](mailto:akarshguptaaa@gmail.com)
+
+YOU WILL NOT BE ABLE TO GET ALL THE QUESTIONS FROM MY GOOGLE FIRESTORE AS YOU WILL HAVE TO ADD IN YOUR OWN GOOGLE LICENSE KEY BY MAKING A NEW FIREBASE AND IMPORT IT IN YOUR ANDROID STUDIO

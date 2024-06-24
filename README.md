@@ -96,7 +96,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
